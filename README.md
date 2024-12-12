@@ -1,6 +1,6 @@
-# Who Wants to Be a Millionaire
+﻿# Who Wants to Be a Millionaire
 
-This project is a university classwork assignment for the course "InfoC � Programoz�s alapjai I." at BME EET.
+This project is a university classwork assignment for the course "Programozás alapjai I." at Budapesti Műszaki és Gazdaságtudományi Egyetem.
 
 ## Table of Contents
 - [Overview](#overview)
