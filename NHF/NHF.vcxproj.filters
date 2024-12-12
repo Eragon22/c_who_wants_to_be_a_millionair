@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\c-econio">
+      <UniqueIdentifier>{bfeb0258-4584-4d9b-8cd0-47d579e9e705}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\kerdesek">
+      <UniqueIdentifier>{3eb56183-15c2-45d1-a02f-f564e9673b29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\dicsoseglista">
+      <UniqueIdentifier>{02680ffb-26d5-4072-809b-f5d65b6f037f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\fajlkezeles">
+      <UniqueIdentifier>{75155862-e19c-400c-832b-fad580110c5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\segitsegek">
+      <UniqueIdentifier>{b2f524a4-e7c5-49ab-b213-ce38a88b6cad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\jatek">
+      <UniqueIdentifier>{fbbede60-3ad4-47ae-bd4e-c7354838b13a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NHF.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kerdesek.c">
+      <Filter>Source Files\kerdesek</Filter>
+    </ClCompile>
+    <ClCompile Include="dicsoseglista.c">
+      <Filter>Source Files\dicsoseglista</Filter>
+    </ClCompile>
+    <ClCompile Include="fajlkezeles.c">
+      <Filter>Source Files\fajlkezeles</Filter>
+    </ClCompile>
+    <ClCompile Include="econio.c">
+      <Filter>Source Files\c-econio</Filter>
+    </ClCompile>
+    <ClCompile Include="segitsegek.c">
+      <Filter>Source Files\segitsegek</Filter>
+    </ClCompile>
+    <ClCompile Include="jatek.c">
+      <Filter>Source Files\jatek</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="kerdesek.h">
+      <Filter>Source Files\kerdesek</Filter>
+    </ClInclude>
+    <ClInclude Include="dicsoseglista.h">
+      <Filter>Source Files\dicsoseglista</Filter>
+    </ClInclude>
+    <ClInclude Include="fajlkezeles.h">
+      <Filter>Source Files\fajlkezeles</Filter>
+    </ClInclude>
+    <ClInclude Include="econio.h">
+      <Filter>Source Files\c-econio</Filter>
+    </ClInclude>
+    <ClInclude Include="segitsegek.h">
+      <Filter>Source Files\segitsegek</Filter>
+    </ClInclude>
+    <ClInclude Include="jatek.h">
+      <Filter>Source Files\jatek</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE.txt">
+      <Filter>Source Files\c-econio</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md">
+      <Filter>Source Files\c-econio</Filter>
+    </None>
+  </ItemGroup>
+</Project>
